@@ -1,0 +1,51 @@
+body {
+    background: white;
+}
+
+.top-banner {
+    padding-top: 250px;
+    padding-bottom: 250px;
+    background: url('../img/interiorbanner.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.top-banner {
+    color: white !important;
+}
+
+.heading-break {
+    background: black;
+    padding: 2px;
+    width: 25%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.half-section {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.about-icon {
+    margin-bottom: 15px
+}
+
+section {
+    background: #f7f7f7;
+}
+
+.section-image {
+    background-attachment: scroll !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+}
